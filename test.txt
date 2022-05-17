@@ -1,1 +1,2 @@
 my name is lovedeep
+this class is for github and git
