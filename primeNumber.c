@@ -1,5 +1,5 @@
 // C++ program to check if a
-// number is prime
+// number is prim
 #include <iostream>
 #include <math.h>
 using namespace std;
