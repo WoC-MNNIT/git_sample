@@ -1,8 +1,8 @@
 my name is lovedeep
 this class is for github and git
 
+my name is divyansh upadhyay
 
+this is line is written on testing 
 
-
-
-this line must give a conflict
+this must give conflict
